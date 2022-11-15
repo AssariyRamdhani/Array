@@ -1,4 +1,4 @@
-Array 1 Dimensi menggunakan 1 index. dan index tersebut berfungsi sebagai jumlah karakter
+Deskripsi program array 1 dimensi : Array 1 Dimensi menggunakan 1 index. dan index tersebut berfungsi sebagai jumlah karakter
 char array[jumlah karakter]
 pada bagian didalam [] itulah yang disebut index . misalkan kita menginput data "Tutorial" berisi 8 karakter. itu bisa disesuaikan dengan jumlah index yang akan ditentukan
 
